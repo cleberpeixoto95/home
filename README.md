@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=17&lines=Especialista+em+Infraestrutura+de+TI;Segurança%2C+Cloud%2C+Automação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=black&width=500&center=true&vCenter=true&size=17&lines=Especialista+em+Infraestrutura+de+TI;Segurança%2C+Cloud%2C+Automação" />
 </p>
