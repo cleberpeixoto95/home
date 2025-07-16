@@ -1,4 +1,4 @@
-# Cleberson Oliveira Peixoto
+# Cleber Peixoto
 
 **`Especialista em Infraestrutura de TI | Cloud | Redes`**
 
@@ -6,17 +6,17 @@
 
 <!-- Contact Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/clebersonoliveira" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/clebersonpeixoto/" style="text-decoration: none;">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
 
-  <a href="mailto:cleberson.email@gmail.com" style="text-decoration: none;">
+  <a href="mailto:cleber.peixoto95@gmail.com" style="text-decoration: none;">
     <img alt="Gmail" title="Me envie um e-mail" 
          src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
 
-  <a href="https://github.com/clebersonpeixoto" style="text-decoration: none;">
+  <a href="https://github.com/cleberpeixoto95" style="text-decoration: none;">
     <img alt="GitHub" title="Meus repositórios no GitHub" 
          src="https://custom-icon-badges.demolab.com/badge/-GitHub-282A36?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
